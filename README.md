@@ -1,0 +1,2 @@
+# vite-templates
+templates
